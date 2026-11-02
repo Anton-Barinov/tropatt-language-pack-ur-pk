@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => 'Dashboard widgets',
+  'widgets_saved' => 'Dashboard widgets updated',
+  'widgets_required' => 'Widgets list is ضروری',
+  'summary' => 'Dashboard summary',
+  'sticky_notes_title' => 'Sticky Notes',
+  'sticky_notes_loading' => 'لوڈ ہو رہا ہے notes...',
+  'sticky_notes_error' => 'Failed to load notes',
+  'sticky_notes_empty' => 'No notes yet',
+  'sticky_notes_add' => '+ Add note',
+  'sticky_notes_pin' => 'Pin',
+  'sticky_notes_unpin' => 'Unpin',
+  'sticky_notes_archive' => 'Archive',
+  'sticky_notes_archive_confirm' => 'Archive note?',
+  'sticky_notes_content_required' => 'Enter note text',
+  'sticky_notes_saved' => 'Note updated',
+  'sticky_notes_save_error' => 'محفوظ کریں خرابی',
+  'sticky_notes_update_error' => 'Update خرابی',
+  'sticky_notes_archived' => 'Note archived',
+  'sticky_notes_archive_error' => 'Archive خرابی',
+  'sticky_notes_create_title' => 'New note',
+  'sticky_notes_content_label' => 'Note text',
+  'sticky_notes_placeholder' => 'Write a note...',
+  'sticky_notes_color_label' => 'Colour',
+  'sticky_notes_created' => 'Note created',
+  'sticky_notes_create_error' => 'Creation خرابی',
+  'insights' => 'Dashboard widget metrics',
+  'insights_unknown_widget' => 'نامعلوم dashboard widget',
+);

@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-ur-pk",
+    "full_code": "crm.language-pack-ur-pk",
+    "vendor": "crm",
+    "code": "ur-pk",
+    "title": "Urdu Language Pack (اردو)",
+    "native_name": "اردو",
+    "direction": "rtl",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM اردو localization pack.",
+    "signature": "654d752184797043df934a761abd12e8c7422fb07584546c085793651121e662"
+}

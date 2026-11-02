@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'کام template list',
+  'task_created' => 'کام template created',
+  'task_detail' => 'کام template',
+  'task_updated' => 'کام template updated',
+  'task_deleted' => 'کام template deleted',
+  'project_list' => 'پروجیکٹ template list',
+  'project_created' => 'پروجیکٹ template created',
+  'project_detail' => 'پروجیکٹ template',
+  'project_updated' => 'پروجیکٹ template updated',
+  'project_deleted' => 'پروجیکٹ template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No کام templates',
+  'empty_projects' => 'No پروجیکٹ templates',
+  'load_error_tasks' => 'Failed to load کام templates',
+  'load_error_projects' => 'Failed to load پروجیکٹ templates',
+  'btn_delete' => 'Excluir',
+  'created_task_notify' => 'کام template created',
+  'created_project_notify' => 'پروجیکٹ template created',
+  'error_create' => 'بنائیں خرابی',
+  'confirm_delete_task' => 'حذف کام template?',
+  'confirm_delete_project' => 'حذف پروجیکٹ template?',
+  'deleted_task_notify' => 'کام template deleted',
+  'deleted_project_notify' => 'پروجیکٹ template deleted',
+  'error_delete' => 'حذف خرابی',
+  'task_applied' => 'کام created from template',
+  'project_applied' => 'پروجیکٹ created from template',
+);
